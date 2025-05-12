@@ -27,5 +27,6 @@ This is a fully serverless web application that delivers random inspirational qu
 (https://anca-irimia.com/quotes.html)
 
 ## Architecture Diagram:
-<img width="893" alt="Quotes_ Serverless Application" src="https://github.com/user-attachments/assets/82169990-25af-47e7-98ad-4301cfa6d534" />
 
+
+![QuotesDiagram](https://github.com/user-attachments/assets/43f24140-fe2c-4d4a-902a-08527fcef458)
