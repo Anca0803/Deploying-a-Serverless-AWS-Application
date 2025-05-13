@@ -28,5 +28,5 @@ This is a fully serverless web application that delivers random inspirational qu
 
 ## Architecture Diagram:
 
+https://github.com/Anca0803/Serverless-Quote-Generator-on-AWS-/blob/main/QuotesDiagram.png
 
-![QuotesDiagram](https://github.com/user-attachments/assets/43f24140-fe2c-4d4a-902a-08527fcef458)
